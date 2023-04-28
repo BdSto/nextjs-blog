@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'BdSto';
-export const siteTitle = 'Website with Next.js';
+export const siteTitle = 'Website with Next.js 13';
 
 export default function Layout({ children, home }) {
   return (
